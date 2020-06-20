@@ -1,0 +1,6 @@
+C:\Users\Sahar PC\source\repos\NewWcfService\NewWcfService\bin\NewWcfService.dll.config
+C:\Users\Sahar PC\source\repos\NewWcfService\NewWcfService\bin\NewWcfService.dll
+C:\Users\Sahar PC\source\repos\NewWcfService\NewWcfService\bin\NewWcfService.pdb
+C:\Users\Sahar PC\source\repos\NewWcfService\NewWcfService\obj\Debug\NewWcfService.csproj.CoreCompileInputs.cache
+C:\Users\Sahar PC\source\repos\NewWcfService\NewWcfService\obj\Debug\NewWcfService.dll
+C:\Users\Sahar PC\source\repos\NewWcfService\NewWcfService\obj\Debug\NewWcfService.pdb
